@@ -21,28 +21,28 @@ const ProductDetails = () => {
     const reviews = [
         {
             id: 1,
-            name: "Anji",
+            name: "Ashwini",
             date: "4 Aug 2025",
             rating: 5,
             text: "Sound is awesome and as I expected, love it.",
-            avatar: anji
+            avatar: "https://ui-avatars.com/api/?name=Ashwini&background=F31260&color=fff"
         },
         {
             id: 2,
-            name: "Aslam Bhai",
+            name: "Moulya",
             date: "23 May 2024",
             rating: 5,
             text: "Very good and awesome product",
-            avatar: aslam
+            avatar: "https://ui-avatars.com/api/?name=Moulya&background=F31260&color=fff"
 
         },
         {
             id: 3,
-            name: "Atharva Kumar",
+            name: "Sunil Gowda",
             date: "10 Dec 2023",
             rating: 5,
             text: "Very good and awesome product",
-            avatar: "https://ui-avatars.com/api/?name=Atharva+Kumar&background=F31260&color=fff"
+            avatar: "https://ui-avatars.com/api/?name=Sunil+Gowda&background=F31260&color=fff"
         }
     ];
 
