@@ -6,8 +6,6 @@ import { addToCart } from "../reduxToolKit-store/productSlice";
 import "./ProductDetails.css";
 import { toast } from "react-toastify";
 import { FaStar } from "react-icons/fa";
-import anji from "../assets/Anji.jpg"
-import aslam from '../assets/aslam.jpg'
 import { Link } from "react-router-dom";
 
 
